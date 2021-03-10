@@ -1,0 +1,8 @@
+#listTask li.done{
+    color: rgba(57, 68, 71, 0.274);
+    text-decoration: line-through;
+}
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
